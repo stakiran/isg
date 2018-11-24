@@ -2,7 +2,7 @@
 Incremental searchable glossary system.
 
 ## Demo
-See GitHub Pages.
+See GitHub Pages: [https://stakiran.github.io/isg/](https://stakiran.github.io/isg/)
 
 - (1) Before: [glossary.md](glossary.md)
 - (2) Build with `python builder.py -i glossary.md`...
